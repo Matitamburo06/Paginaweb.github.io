@@ -1,0 +1,50 @@
+.barrita1{
+
+background-color: grey;
+}
+
+
+/* .titlesnav{
+
+    display: flex;
+
+} */
+
+
+ .barrita1 .titlesnav .titlesnav2 .titlesnav3 .titlesnav4{
+    display: flex;
+    text-align: left;
+
+} 
+
+/* .titlesnav3{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+        font-size: medium;
+     text-align: right;
+     display: flex;
+     margin-left: 400px;
+    
+} */
+
+
+.cards1{
+display: inline-block;
+
+}
+
+
+
+
+
+
+/* 
+.titlesnav3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    font-size: medium;
+ text-align: right;
+ display: flex;
+ margin-left: 400px;
+} */
+
